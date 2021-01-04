@@ -2,4 +2,4 @@
 ***
 Мои домашние задания
 
-[Урок 1] [http://google.com/]
+[Урок 1](https://vikhtevsky.github.io/lesson_12/src/ "урок 12")
