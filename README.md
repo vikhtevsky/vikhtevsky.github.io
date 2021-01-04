@@ -1,2 +1,2 @@
-# vikhtevsky.github.io
-my first public site
+# Вихтевский Денис
+Мои домашние задания
